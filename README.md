@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # infinite_gallery_task
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# infinite-image-gallery
+Flutter Infinite Image Gallery app built with GetX and Pixabay API
+>>>>>>> 49c2b27dd953a7d1342d8a92c2d749a0e3c0b1f4
